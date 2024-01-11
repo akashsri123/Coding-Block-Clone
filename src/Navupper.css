@@ -1,0 +1,38 @@
+.navupdiv {
+    background-color: rgb(21,23,30);
+    color: white;
+    
+}
+
+.mnavupdiv {
+    margin: 0 15%;
+    position: relative;
+    
+
+
+}
+
+.mnavupdiv ul {
+    display: flex;
+    position: absolute;
+    right: 200px;
+    top: 0px;
+    text-align: center;
+}
+
+.mnavupdiv li {
+    cursor: pointer;
+    list-style: none;
+    padding: 0 20px;
+
+}
+.mnavupdiv p{
+margin-top: 5px;
+
+}
+.mnavupdiv button{
+    position: absolute;
+    right: 10px;
+    top: 33px;
+    
+    }

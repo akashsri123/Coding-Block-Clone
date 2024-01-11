@@ -1,0 +1,47 @@
+.blog {
+    background-color: rgb(8,9,12);
+    color: white;
+    height: 500px;
+}
+
+.mblogdiv{
+    margin: 0 15%;
+}
+.ublogdiv{
+    position: relative;
+    padding: 50px 0;
+}
+.ublogdiv button{
+    position: absolute;
+    right: 0;
+    top: 40px;
+} 
+.blogdiv {
+    background-color: rgb(21,23,30);
+    color: white;
+    height: 200px;
+    padding: 40px 0;
+}
+
+.bimgdiv{
+  margin: 0;
+  padding: 0;
+}
+.bimgdiv a{
+    text-decoration: none;
+    color: #FF7A01;
+    
+}
+.bimgdiv h5{
+    padding-top: 25px;
+    
+}
+.bimgdiv img{
+   border-radius: 10px;
+   width: 100%;
+    
+}
+.learning {
+    margin: 0 15%;
+}
+

@@ -1,0 +1,23 @@
+.newsdiv{
+    background-color: rgb(21,23,30);
+    color: white;
+}
+.mnewsdiv{
+    margin: 0 15%;
+}
+.newindiv{
+    margin: 0;
+    padding: 70px 0;
+}
+.newindiv img{
+  height: 25px;
+  width: 80px;
+  padding-bottom: 5px;
+}
+.newindiv p{
+   margin: 0;
+  }
+  .newindiv a{
+   text-decoration: none;
+   color: #FF7A01;
+   }

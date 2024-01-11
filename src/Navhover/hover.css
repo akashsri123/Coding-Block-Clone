@@ -1,0 +1,54 @@
+.freediv{
+    background-color: rgba(169, 17, 230);
+
+    position: absolute;
+    width: 250px;
+    display: inline-block;
+    right: 550px;
+    color: white;
+    
+    
+}
+.FLRdiv{
+    background-color: rgba(169, 17, 230);
+    position: absolute;
+    
+    display: inline-block;
+    right: 310px;
+    color: white;
+}
+.freediv ul{
+ list-style: none;
+ padding: 20px;
+ margin: 0;
+
+ 
+}
+.freediv li{
+    padding-bottom: 10px;
+    font-weight:400;
+    font-size: medium;
+}
+.freediv li:hover{
+    color: #FF7A01;
+    cursor: pointer;
+
+}
+
+.FLRdiv ul{
+    list-style: none;
+    padding: 20px;
+    margin: 0;
+   
+    
+   }
+   .FLRdiv li{
+       padding-bottom: 10px;
+       font-weight:400;
+       font-size: medium;
+   }
+   .FLRdiv li:hover{
+       color: #FF7A01;
+       cursor: pointer;
+   
+   }

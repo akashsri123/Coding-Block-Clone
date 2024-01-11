@@ -1,0 +1,28 @@
+.navdiv {
+    background-color: rgb(21,23,30);
+    color: white;
+    position: sticky;
+    top:0;
+    z-index: 2;
+}
+
+.mnavdiv {
+    margin: 0 15%;
+    position: relative;
+    height: 60px;
+
+}
+
+.mnavdiv ul {
+    display: flex;
+    position: absolute;
+    right: 0;
+    margin-top: 20px;
+}
+
+.mnavdiv li {
+    list-style: none;
+    padding: 0 20px;
+    cursor: pointer;
+
+}

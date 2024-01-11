@@ -1,0 +1,53 @@
+.mdsa{
+    padding-top: 25px;
+    color: white;
+}
+.para{
+    font-size: small;
+    padding-bottom: 10px;
+}
+.imageinside{
+    padding: 2px;
+}
+.imageinside img{
+   height: 20px;
+   padding: 0 5px;
+   
+}
+.forpadding{
+    padding-left: 15px;
+}
+.forfont li{
+    font-size: x-small;
+    list-style: none;
+    padding-top: 8px;
+    font-weight:bold;
+    padding-left: 10px;
+}
+.forfont ul{
+    padding: 5px;
+}
+.forfont p{
+    padding-top: 5px;
+   font-size: medium;
+   font-weight: bolder;
+   margin: 0;
+   padding-left: 10px;
+}
+
+.forfont h4{
+    padding: 10px;
+    font-size: large;
+    
+    /* background-color: rgb(1, 99, 99); */
+
+}
+
+.abcdddd{
+    padding: 10px 20px 20px 35px;
+}
+.bordercolor{
+ 
+    border-radius: 5px;
+    background-color: #1F222C;
+}

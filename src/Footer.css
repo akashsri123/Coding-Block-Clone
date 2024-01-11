@@ -1,0 +1,66 @@
+.fmaindiv {
+    background-color: rgb(8,9,12);
+    color: white;
+    height: 600px;
+}
+
+
+.fmaindiv1 {
+    margin: 0 15%;
+}
+
+
+.blocks {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+
+.blocks ul {
+    list-style: none;
+    padding: 0;
+}
+
+.blocks span {
+    margin: 0;
+    padding-top: 15px;
+}
+.blocks span:hover {
+    color: #FF7A01;
+    cursor: pointer;
+}
+.reviewdiv{
+    margin: 0;
+    padding: 40px 0 0 0 ;
+    position: relative;
+
+}
+.rating ul{
+    display: flex;
+    position: absolute;
+    right: 0px;
+    left: 70px;
+}
+.rating li{
+    list-style:none;
+}
+
+
+/* forlogo */
+
+
+.logos {
+    /* padding-top: 20px; */
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    text-align: center;
+}
+.logos p{
+    margin: 0;
+}
+.logos a{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
